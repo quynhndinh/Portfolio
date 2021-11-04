@@ -97,6 +97,10 @@ nav ul li {
   padding: 0.3rem 0;
 }
 
+.project:hover{
+  background: rgb(233, 233, 233)
+}
+
 .project-bar{
   display: flex;
   flex-direction: row;
